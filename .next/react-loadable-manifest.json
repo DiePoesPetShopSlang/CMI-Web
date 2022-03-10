@@ -1,0 +1,8 @@
+{
+  "chats.js -> react-chat-engine": {
+    "id": "chats.js -> react-chat-engine",
+    "files": [
+      "static/chunks/node_modules_react-chat-engine_dist_index_modern_js.js"
+    ]
+  }
+}
